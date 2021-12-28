@@ -1,0 +1,10 @@
+body{
+    background-color: #bdc2bb;
+}
+h2:hover{
+    color: #6B8E23;
+}
+h4:hover{
+    background-color: #708090;
+    color: #FFFFFF;
+}
